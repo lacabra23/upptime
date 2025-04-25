@@ -3,8 +3,494 @@ owner: lacabra23 # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Ministerio de Administración Pública
+    url: https://map.gob.do
+  - name: Contraloría General de la República Dominicana
+    url: https://contraloria.gob.do
+  - name: Dirección General de Pasaportes
+    url: https://pasaportes.gob.do
+  - name: Dirección General de Migración de la República Dominicana
+    url: https://migracion.gob.do
+  - name: Ministerio de industria comercio y Mipymes
+    url: https://micm.gob.do
+  - name: Ministerio de Salud Publica
+    url: https://msp.gob.do
+  - name: Cámara de Cuentas de la República Dominicana
+    url: https://camaradecuentas.gob.do
+  - name: Senado de la República Dominicana
+    url: https://senadord.gob.do
+  - name: Cámara de Diputados de la República Dominicana
+    url: https://camaradediputados.gob.do
+  - name: Junta Central Electoral
+    url: https://jce.gob.do
+  - name: Poder Judicial de la República Dominicana
+    url: https://poderjudicial.gob.do
+  - name: Ministerio de Deportes y Recreación
+    url: https://miderec.gob.do
+  - name: Ministerio de Energía y Minas
+    url: https://mem.gob.do
+  - name: Ministerio de Cultura
+    url: https://cultura.gob.do
+  - name: Ministerio de Relaciones Exteriores
+    url: https://mirex.gob.do
+  - name: Ministerio de Turismo
+    url: https://mitur.gob.do
+  - name: Ministerio de Trabajo
+    url: https://mt.gob.do
+  - name: Ministerio de la Mujer
+    url: https://mujer.gob.do
+  - name: Ministerio de la Vivienda Hábitat y Edificaciones
+    url: https://mived.gob.do
+  - name: Ministerio de Economía Planificación y Desarrollo
+    url: https://mepyd.gob.do
+  - name: Ministerio de Medio Ambiente y Recursos Naturales
+    url: https://ambiente.gob.do
+  - name: Ministerio de Agricultura
+    url: https://agricultura.gob.do
+  - name: Ministerio de la Juventud
+    url: https://juventud.gob.do
+  - name: Ministerio Administrativo de la Presidencia
+    url: https://mapre.gob.do
+  - name: Ministerio de Interior y Policía (Plataforma en línea)
+    url: https://mipenlinea.gob.do
+  - name: Presidencia de la República Dominicana
+    url: https://presidencia.gob.do
+  - name: Vicepresidencia de la República Dominicana
+    url: https://vicepresidencia.gob.do
+  - name: Ministerio de la Presidencia
+    url: https://minpre.gob.do
+  - name: Ministerio de Interior y Policía
+    url: https://mip.gob.do
+  - name: Sistema de Monitoreo de la Administración Pública
+    url: https://sismap.gob.do
+  - name: Dirección de Estrategia y Comunicación Gubernamental
+    url: https://diecom.gob.do
+  - name: Instituto Nacional de Protección de los Derechos del Consumidor (Pro Consumidor)
+    url: https://proconsumidor.gob.do
+  - name: Dirección General de Aduanas
+    url: https://aduanas.gob.do
+  - name: Tribunal Constitucional de la República Dominicana
+    url: https://tribunalconstitucional.gob.do
+  - name: Sistema Único de Información y Registro
+    url: https://suir.gob.do
+  - name: Portal de Servicios del Gobierno de la República Dominicana
+    url: https://serviciosrd.gob.do
+  - name: Plataforma Soy Yo RD (Identidad Digital del Gobierno Dominicano)
+    url: https://soyyord.gob.do
+  - name: Dirección General de Presupuesto
+    url: https://digepres.gob.do
+  - name: Dirección General de Ética e Integridad Gubernamental
+    url: https://digeig.gob.do
+  - name: Dirección General de Contrataciones Públicas
+    url: https://dgcp.gob.do
+  - name: Instituto Dominicano de las Telecomunicaciones (INDOTEL)
+    url: https://indotel.gob.do
+  - name: Oficina Gubernamental de Tecnologías de la Información y Comunicación (OGTIC)
+    url: https://ogtic.gob.do
+  - name: Administradora de Riesgos de Salud del Seguro Nacional de Salud (ARS SENASA)
+    url: https://arssenasa.gob.do
+  - name: Servicio Nacional de Salud (SNS)
+    url: https://sns.gob.do
+  - name: Hospital Dr. Darío Contreras
+    url: https://dariocontreras.gob.do
+  - name: Hospital General de la Policía Nacional
+    url: https://hosgedopol.gob.do
+  - name: Superintendencia de Salud y Riesgos Laborales (SISALRIL)
+    url: https://sisalril.gob.do
+  - name: Central Termoeléctrica Punta Catalina
+    url: https://puntacatalina.gob.do
+  - name: Consejo Nacional de Energía (CNE)
+    url: https://cne.gob.do
+  - name: Superintendencia de Electricidad (SIE)
+    url: https://sie.gob.do
+  - name: Departamento Nacional de Investigaciones (DNI)
+    url: https://dni.gov.do
+  - name: Departamento Nacional de Investigaciones (DNI)
+    url: https://dni.gob.do
+  - name: Centro de Comando Control Comunicaciones Computadoras Ciberseguridad e Inteligencia de las Fuerzas Armadas (C5I FFAA)
+    url: https://c5iffaa.gob.do
+  - name: Ministerio de Defensa (MIDE)
+    url: https://mide.gob.do
+  - name: Policía Nacional
+    url: https://policianacional.gob.do
+  - name: Policía Nacional
+    url: https://pn.gob.do
+  - name: Dirección de Inteligencia Militar J-2
+    url: https://j2.mil.do
+  - name: Sistema Nacional de Atención a Emergencias y Seguridad 9-1-1
+    url: https://911.gob.do
+  - name: Procuraduría General de la República
+    url: https://pgr.gob.do
+  - name: Dirección Nacional de Control de Drogas (DNCD)
+    url: https://dncd.gob.do
+  - name: Armada de la República Dominicana
+    url: https://armada.mil.do
+  - name: Fuerza Aérea de la República Dominicana (FARD)
+    url: https://fard.mil.do
+  - name: Ejército de la República Dominicana
+    url: https://ejercito.mil.do
+  - name: Cuerpo Especializado en Seguridad Fronteriza Terrestre (CESFRONT)
+    url: https://cesfront.mil.do
+  - name: Sistema de Emergencias de las Fuerzas Armadas (SIERD)
+    url: https://sierd.mil.do
+  - name: Cuerpo Especializado en Seguridad del Metro (CESMET)
+    url: https://cesmet.mil.do
+  - name: Cuerpo Especializado en Seguridad Aeroportuaria y de la Aviación Civil (CESAC)
+    url: https://cesac.mil.do
+  - name: Centro de Operaciones de Emergencias (COE)
+    url: https://coe.gob.do
+  - name: Superintendencia de Vigilancia y Seguridad Privada (SVSP)
+    url: https://svsp.gob.do
+  - name: Dirección General de Seguridad de Tránsito y Transporte Terrestre (DIGESETT)
+    url: https://digesett.gob.do
+  - name: Policía de Turismo (POLITUR)
+    url: https://politur.gob.do
+  - name: Dirección General de Educación Vial
+    url: https://digev.mil.do
+  - name: Cuerpo Especializado de Control de Combustibles (CECCOM)
+    url: https://ceccom.gob.do
+  - name: Cuerpo Especializado en Seguridad Portuaria (CESEP)
+    url: https://cesep.mil.do
+  - name: Instituto de Seguridad Social de las Fuerzas Armadas (ISSFFAA)
+    url: https://issffaa.mil.do
+  - name: Dirección General de Dragas Presas y Balizamiento
+    url: https://dragas.mil.do
+  - name: Comisión Permanente de Efemérides Patrias
+    url: https://copremfa.mil.do
+  - name: Defensa Civil Dominicana
+    url: https://defensacivil.gob.do
+  - name: Dirección General de Impuestos Internos (DGII)
+    url: https://dgii.gov.do
+  - name: Ministerio de Hacienda
+    url: https://hacienda.gob.do
+  - name: Banco Central de la República Dominicana
+    url: https://bancentral.gov.do
+  - name: ProUsuario (Superintendencia de Bancos)
+    url: https://prousuario.gob.do
+  - name: Superintendencia de Bancos
+    url: https://sb.gob.do
+  - name: Banco Agrícola de la República Dominicana
+    url: https://bagricola.gob.do
+  - name: Banco Agrícola de la República Dominicana
+    url: https://bancoagricola.gob.do
+  - name: Superintendencia de Pensiones (SIPEN)
+    url: https://sprics.gov.do
+  - name: Superintendencia de Pensiones (SIPEN)
+    url: https://sipen.gob.do
+  - name: Administradora de Subsidios Sociales (ADESS)
+    url: https://adess.gob.do
+  - name: Superintendencia del Mercado de Valores (SIMV)
+    url: https://simv.gob.do
+  - name: Tesorería Nacional
+    url: https://tesoreria.gob.do
+  - name: Instituto de Desarrollo y Crédito Cooperativo (IDECOOP)
+    url: https://idecoop.gob.do
+  - name: Instituto Nacional de Tránsito y Transporte Terrestre (INTRANT)
+    url: https://intrant.gob.do
+  - name: Oficina Metropolitana de Servicios de Autobuses (OMSA)
+    url: https://omsa.gob.do
+  - name: Oficina para el Reordenamiento del Transporte (OPRET)
+    url: https://opret.gob.do
+  - name: Autoridad Portuaria Dominicana
+    url: https://portuaria.gob.do
+  - name: Ministerio de Obras Públicas y Comunicaciones (MOPC)
+    url: https://mopc.gob.do
+  - name: Junta de Aviación Civil (JAC)
+    url: https://jac.gob.do
+  - name: Instituto Dominicano de Aviación Civil (IDAC)
+    url: https://idac.gob.do
+  - name: Instituto Postal Dominicano (INPOSDOM)
+    url: https://inposdom.gob.do
+  - name: Paso Rápido (Sistema de peajes)
+    url: https://pasorapido.gob.do
+  - name: Ministerio de Educación
+    url: https://ministeriodeeducacion.gob.do
+  - name: Instituto Nacional de Bienestar Estudiantil (INABIE)
+    url: https://inabie.gob.do
+  - name: Ministerio de Educación Superior Ciencia y Tecnología (MESCyT)
+    url: https://mescyt.gob.do
+  - name: Programa Nacional de Becas (BECAS)
+    url: https://becas.gob.do
+  - name: Instituto Nacional de Formación Técnico Profesional (INFOTEP)
+    url: https://infotep.gob.do
+  - name: Corporación del Acueducto y Alcantarillado de Santo Domingo (CAASD)
+    url: https://caasd.gob.do
+  - name: Instituto Nacional de Aguas Potables y Alcantarillados (INAPA)
+    url: https://inapa.gob.do
+  - name: Corporación del Acueducto y Alcantarillado de Santiago (CORAASAN)
+    url: https://coraasan.gob.do
+  - name: Instituto Nacional de Recursos Hidráulicos (INDRHI)
+    url: https://indrhi.gob.do
+  - name: Instituto de Estabilización de Precios (INESPRE)
+    url: https://inespre.gob.do
+  - name: Instituto Agrario Dominicano (IAD)
+    url: https://iad.gob.do
+  - name: Acuario Nacional
+    url: https://acuarionacional.gob.do
+  - name: Parque Nacional Mirador del Norte
+    url: https://parquemiradornorte.gob.do
+  - name: Seguro Médico para Maestros (SEMMA)
+    url: https://semma.gob.do
+  - name: Autoridad Nacional de Asuntos Marítimos (ANAMAR)
+    url: https://anamar.gob.do
+  - name: Autoridad Portuaria Dominicana
+    url: https://portuaria.gob.do
+  - name: Biblioteca Nacional Pedro Henríquez Ureña (BNPHU)
+    url: https://bnphu.gob.do
+  - name: Centro de Atención Integral para la Discapacidad (CAID)
+    url: https://caid.gob.do
+  - name: Centro de Operaciones de Emergencias (COE)
+    url: https://coe.gob.do
+  - name: Comedores Económicos del Estado Dominicano
+    url: https://comedoreseconomicos.gob.do
+  - name: Instituto Nacional de Recursos Hidráulicos (INDRHI) - División de Riego
+    url: https://riego.gob.do
+  - name: Comisión Nacional de Defensa de la Competencia (ProCompetencia)
+    url: https://procompetencia.gob.do
+  - name: Comisión Presidencial de Apoyo al Desarrollo Barrial
+    url: https://desarrollobarrial.gob.do
+  - name: Comisión Presidencial de Apoyo al Desarrollo Provincial (CPADP)
+    url: https://cpadp.gob.do
+  - name: Centro de Capacitación en Política y Gestión Fiscal (CDC)
+    url: https://cdc.gob.do
+  - name: Consejo Nacional para la Niñez y la Adolescencia (CCDF)
+    url: https://ccdf.gob.do
+  - name: Consejo Dominicano de Pesca y Acuicultura (CODOPESCA)
+    url: https://codopesca.gob.do
+  - name: Corporación de Acueducto y Alcantarillado de Boca Chica (CORAABO)
+    url: https://coraabo.gob.do
+  - name: Corporación de Acueducto y Alcantarillado de La Romana (COAAROM)
+    url: https://coaarom.gob.do
+  - name: Corporación de Acueducto y Alcantarillado de La Vega (CORAAVEGA)
+    url: https://coraavega.gob.do
+  - name: Corporación de Acueducto y Alcantarillado de Moca (CORAAMOCA)
+    url: https://coraamoca.gob.do
+  - name: Corporación de Acueducto y Alcantarillado de Montecristi (CORAMON)
+    url: https://coramon.gob.do
+  - name: Corporación de Acueducto y Alcantarillado de Puerto Plata (CORAAPPLATA)
+    url: https://coraapplata.gob.do
+  - name: Corporación de Acueducto y Alcantarillado de Santiago (CORAASAN)
+    url: https://coraasan.gob.do
+  - name: Corporación del Acueducto y Alcantarillado de Santo Domingo (CAASD)
+    url: https://portal.caasd.gob.do
+  - name: Consejo Nacional de Discapacidad (CONADIS)
+    url: https://conadis.gob.do
+  - name: Consejo Nacional de Drogas
+    url: https://consejodedrogasrd.gob.do
+  - name: Dirección General de Desarrollo Fronterizo
+    url: https://fronteras.gob.do
+  - name: Consejo Nacional de Investigaciones Agropecuarias y Forestales (CONIAF)
+    url: https://coniaf.gob.do
+  - name: Consejo Nacional de la Persona Envejeciente (CONAPE)
+    url: https://conape.gob.do
+  - name: Consejo Nacional de Protección a la Persona Envejeciente (CONAPROPE)
+    url: https://conaprope.gob.do
+  - name: Consejo Nacional de Promoción y Apoyo a la Micro Pequeña y Mediana Empresa (PROMIPYME)
+    url: https://promipyme.gob.do
+  - name: Consejo Nacional de Seguridad Social (CNSS)
+    url: https://cnss.gob.do
+  - name: Consejo Nacional de Zonas Francas de Exportación (CNZFE)
+    url: https://cnzfe.gob.do
+  - name: Consejo Nacional para el Cambio Climático y Mecanismo de Desarrollo Limpio
+    url: https://cambioclimatico.gob.do
+  - name: Consejo Nacional para el VIH y el SIDA (CONAVIHSIDA)
+    url: https://conavihsida.gob.do
+  - name: Consejo Nacional para la Niñez y la Adolescencia (CONANI)
+    url: https://conani.gob.do
+  - name: Consejo Nacional para la Reglamentación y Fomento de la Industria Lechera (CONALECHE)
+    url: https://conaleche.gob.do
+  - name: Fondo de Mitigación de Riesgos Agropecuarios (FOMISAR)
+    url: https://fomisar.gob.do
+  - name: Consultoría Jurídica del Poder Ejecutivo
+    url: https://consultoria.gov.do
+  - name: Corporación de Fomento de la Industria Hotelera y Desarrollo del Turismo (CORPHOTELS)
+    url: https://corphotels.gob.do
+  - name: Dirección General de Bellas Artes
+    url: https://bellasartesrd.gob.do
+  - name: Banco Nacional de Fomento de la Vivienda y la Producción (BNV)
+    url: https://bn.gob.do
+  - name: Dirección General de Catastro Nacional
+    url: https://catastro.gob.do
+  - name: Dirección General de Cine (DGCINE)
+    url: https://dgcine.gob.do
+  - name: Dirección General de Contabilidad Gubernamental (DIGECOG)
+    url: https://digecog.gob.do
+  - name: Dirección General de Contrataciones Públicas (DGCP)
+    url: https://dgcp.gob.do
+  - name: Dirección General de Desarrollo de la Comunidad (DGDC)
+    url: https://dgdc.gob.do
+  - name: Dirección General de Desarrollo Fronterizo (DGDF)
+    url: https://dgdf.gob.do
+  - name: Dirección General de Educación y Capacitación en Ciencias Agropecuarias (DIGECAC)
+    url: https://digecac.gob.do
+  - name: Dirección General de Ganadería
+    url: https://ganaderia.gob.do
+  - name: Dirección General de Ética e Integridad Gubernamental (DIGEIG)
+    url: https://digeig.gob.do
+  - name: Dirección de Información y Defensa de los Afiliados a la Seguridad Social (DIDA)
+    url: https://dida.gob.do
+  - name: Dirección General de Jubilaciones y Pensiones (DGJP)
+    url: https://dgjp.gob.do
+  - name: Dirección General de Minería
+    url: https://mineria.gob.do
+  - name: Dirección General de Migración (DGM)
+    url: https://dgm.gob.do
+  - name: Dirección General de Pasaportes
+    url: https://solicitudweb.pasaportes.gob.do
+  - name: Dirección General de Presupuesto (DIGEPRES)
+    url: https://digepres.gob.do
+  - name: Dirección General de Proyectos Estratégicos y Especiales de la Presidencia (PROPEEP)
+    url: https://propeep.gob.do
+  - name: Dirección General de Rehabilitación (DIGERA)
+    url: https://digera.gob.do
+  - name: Dirección Nacional de Control de Drogas (DNCD)
+    url: https://dncd.gob.do
+  - name: Fondo de Pensiones de los Trabajadores de la Construcción (FOPETCONS)
+    url: https://fopetcons.gob.do
+  - name: Fondo Especial para el Desarrollo Agropecuario (FEDA)
+    url: https://feda.gob.do
+  - name: Fondo Marena
+    url: https://fondomarena.gob.do
+  - name: Fondo Patrimonial de las Empresas Reformadas (FONPER)
+    url: https://fonper.gob.do
+  - name: Gabinete de Política Social
+    url: https://gabinetesocial.gob.do
+  - name: Instituto Nacional de la Aguja (INAGUJA)
+    url: https://inaguja.gob.do
+  - name: Instituto Agrario Dominicano (IAD)
+    url: https://iad.gob.do
+  - name: Instituto Nacional del Azúcar (INAZUCAR)
+    url: https://inazucar.gov.do
+  - name: Instituto Nacional de la Vivienda (INAVI)
+    url: https://inavi.gob.do
+  - name: Instituto de Desarrollo y Crédito Cooperativo (IDECOOP)
+    url: https://idecoop.gob.do
+  - name: Instituto de Estabilización de Precios (INESPRE)
+    url: https://inespre.gob.do
+  - name: Instituto de Innovación en Biotecnología e Industria (IIBI)
+    url: https://iibi.gob.do
+  - name: Instituto del Tabaco de la República Dominicana (INTABACO)
+    url: https://intabaco.gob.do
+  - name: Instituto Dominicano de Aviación Civil (IDAC)
+    url: https://idac.gob.do
+  - name: Instituto Dominicano de Evaluación e Investigación de la Calidad Educativa (IDEICE)
+    url: https://ideice.gob.do
+  - name: Instituto Dominicano de Investigaciones Agropecuarias y Forestales (IDIAF)
+    url: https://idiaf.gob.do
+  - name: Oficina Nacional de Meteorología (ONAMET)
+    url: https://onamet.gob.do
+  - name: Instituto Dominicano de Prevención y Protección de Riesgos Laborales (IDOPPRIL)
+    url: https://idoppril.gob.do
+  - name: Instituto Dominicano para la Calidad (INDOCAL)
+    url: https://indocal.gob.do
+  - name: Instituto Duartiano
+    url: https://institutoduartiano.gob.do
+  - name: Instituto Geográfico Nacional (IGN)
+    url: https://ign.gob.do
+  - name: Instituto Nacional de Capacitación y Formación del Personal de la Industria de la Construcción (INCABIDE)
+    url: https://incabide.gob.do
+  - name: Instituto Nacional de Educación Física (INEFI)
+    url: https://inefi.gob.do
+  - name: Instituto Nacional de Formación Técnico Profesional (INFOTEP)
+    url: https://infotep.gob.do
+  - name: Instituto Nacional de Migración (INM)
+    url: https://inm.gob.do
+  - name: Instituto Nacional de Protección de los Derechos del Consumidor (Pro Consumidor)
+    url: https://proconsumidor.gob.do
+  - name: Instituto Nacional de Recursos Hidráulicos (INDRHI)
+    url: https://indrhi.gob.do
+  - name: Instituto Nacional de Tránsito y Transporte Terrestre (INTRANT)
+    url: https://intrant.gob.do
+  - name: Instituto Postal Dominicano (INPOSDOM)
+    url: https://inposdom.gob.do
+  - name: Jardín Botánico Nacional Dr. Rafael M. Moscoso (JBN)
+    url: https://jbn.gob.do
+  - name: Junta de Aviación Civil (JAC)
+    url: https://jac.gob.do
+  - name: Liga Municipal Dominicana (LMD)
+    url: https://lmd.gob.do
+  - name: Mercado Modelo de Santo Domingo
+    url: https://mercadom.gob.do
+  - name: Ministerio Administrativo de la Presidencia (MAPRE)
+    url: https://mapre.gob.do
+  - name: Museo Nacional de Historia Natural Prof. Eugenio de Jesús Marcano (MNHN)
+    url: https://mnhn.gob.do
+  - name: Defensa Civil Dominicana
+    url: https://defensacivil.gob.do
+  - name: Oficina Gubernamental de Tecnologías de la Información y Comunicación (OGTIC)
+    url: https://ogtic.gob.do
+  - name: Oficina Nacional de Derecho de Autor (ONDA)
+    url: https://onda.gob.do
+  - name: Oficina Nacional de Estadística (ONE)
+    url: https://one.gob.do
+  - name: Oficina Nacional de Evaluación Sísmica y Vulnerabilidad de Infraestructura y Edificaciones (ONESVIE)
+    url: https://onesvie.gob.do
+  - name: Oficina para el Reordenamiento del Transporte (OPRET)
+    url: https://opret.gob.do
+  - name: Organismo Dominicano de Acreditación (ODAC)
+    url: https://odac.gob.do
+  - name: Zoológico Nacional (ZOODOM)
+    url: https://zoodom.gob.do
+  - name: Programa de Medicamentos Esenciales y Central de Apoyo Logístico (PROMESE/CAL)
+    url: https://promesecal.gob.do
+  - name: Programa de Protección Social Supérate
+    url: https://superate.gob.do
+  - name: Servicio Geológico Nacional (SGN)
+    url: https://sgn.gob.do
+  - name: Sistema Único de Beneficiarios (SIUBEN)
+    url: https://siuben.gob.do
+  - name: Superintendencia de Electricidad (SIE)
+    url: https://sie.gob.do
+  - name: Superintendencia de Pensiones (SIPEN)
+    url: https://sipen.gob.do
+  - name: Superintendencia de Salud y Riesgos Laborales (SISALRIL)
+    url: https://sisalril.gob.do
+  - name: Superintendencia de Seguros
+    url: https://superseguros.gob.do
+  - name: Superintendencia del Mercado de Valores (SIMV)
+    url: https://simv.gob.do
+  - name: Tesorería de la Seguridad Social (TSS)
+    url: https://tss.gob.do
+  - name: Tesorería Nacional
+    url: https://tesoreria.gob.do
+  - name: Unidad de Análisis Financiero (UAF)
+    url: https://uaf.gob.do
+  - name: Unidad para la Readecuación de Barrios y Entornos (URBE)
+    url: https://urbe.gob.do
+  - name: Comisión Permanente de Titulación de Terrenos del Estado
+    url: https://titulacion.gob.do
+  - name: Lotería Nacional Dominicana
+    url: https://loterianacional.gob.do
+  - name: Instituto de Seguridad y Defensa Nacional (ISOC-RD)
+    url: https://isocrd.gob.do
+  - name: Oficina Nacional de la Propiedad Industrial (ONAPI)
+    url: https://onapi.gob.do
+  - name: Gabinete de Política Social
+    url: https://gabsocial.gob.do
+  - name: Ayuntamiento del Distrito Nacional (ADN)
+    url: https://adn.gob.do
+  - name: Superintendencia de Seguros
+    url: https://superseguros.gob.do
+  - name: Tesorería de la Seguridad Social (TSS)
+    url: https://tss.gob.do
+  - name: Programa de Protección Social Supérate
+    url: https://superate.gob.do
+  - name: Liga Municipal Dominicana
+    url: https://lmd.gob.do
+  - name: Instituto Nacional de Bienestar Magisterial
+    url: https://inabima.gob.do
+  - name: Oficina Nacional de Meteorología
+    url: https://onamet.gob.do
+  - name: Dirección General de Alianzas Público Privadas
+    url: https://dgapp.gob.do
+  - name: Sistema 3-1-1
+    url: https://311.gob.do
+  - name: Instituto Nacional de Administración Pública
+    url: https://inap.gob.do
+  - name: Sistema Electrónico de Contrataciones Públicas
+    url: https://comprasdominicana.gob.do
+  - name: Archivo General de la Nación
+    url: https://agn.gob.do
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
