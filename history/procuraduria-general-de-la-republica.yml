@@ -1,7 +1,7 @@
 url: https://pgr.gob.do
-status: up
-code: 200
-responseTime: 793
-lastUpdated: 2025-04-25T14:29:06.206Z
+status: down
+code: 502
+responseTime: 497
+lastUpdated: 2025-04-25T16:46:48.268Z
 startTime: 2025-04-25T14:29:05.408Z
 generator: Upptime <https://github.com/upptime/upptime>
