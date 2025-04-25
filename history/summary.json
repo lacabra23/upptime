@@ -16,7 +16,7 @@
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-04-25": 199
+      "2025-04-25": 212
     }
   },
   {
@@ -385,18 +385,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/agricultura.gob.do.ico",
     "slug": "ministerio-de-agricultura",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 195,
     "timeDay": 195,
     "timeWeek": 195,
     "timeMonth": 195,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-04-25": 199
+      "2025-04-25": 212
     }
   },
   {
@@ -506,7 +506,7 @@
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-04-25": 199
+      "2025-04-25": 212
     }
   },
   {
@@ -688,7 +688,7 @@
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-04-25": 198
+      "2025-04-25": 212
     }
   },
   {
@@ -870,7 +870,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-25": 198
+      "2025-04-25": 211
     }
   },
   {
@@ -926,7 +926,7 @@
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-04-25": 198
+      "2025-04-25": 211
     }
   },
   {
@@ -946,7 +946,7 @@
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-04-25": 198
+      "2025-04-25": 211
     }
   },
   {
@@ -984,7 +984,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-04-25": 198
+      "2025-04-25": 211
     }
   },
   {
@@ -1004,7 +1004,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-25": 198
+      "2025-04-25": 211
     }
   },
   {
@@ -1024,7 +1024,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-25": 198
+      "2025-04-25": 211
     }
   },
   {
@@ -1069,11 +1069,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pgr.gob.do.ico",
     "slug": "procuraduria-general-de-la-republica",
     "status": "up",
-    "uptime": "74.53%",
-    "uptimeDay": "74.53%",
-    "uptimeWeek": "74.53%",
-    "uptimeMonth": "74.53%",
-    "uptimeYear": "74.53%",
+    "uptime": "76.14%",
+    "uptimeDay": "76.14%",
+    "uptimeWeek": "76.14%",
+    "uptimeMonth": "76.14%",
+    "uptimeYear": "76.14%",
     "time": 729,
     "timeDay": 729,
     "timeWeek": 729,
@@ -1460,7 +1460,7 @@
     "timeMonth": 429,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2025-04-25": 197
+      "2025-04-25": 210
     }
   },
   {
@@ -1559,16 +1559,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sprics.gov.do.ico",
     "slug": "superintendencia-de-pensiones-sipen",
     "status": "up",
-    "uptime": "77.65%",
-    "uptimeDay": "77.65%",
-    "uptimeWeek": "77.65%",
-    "uptimeMonth": "77.65%",
-    "uptimeYear": "77.65%",
-    "time": 1615,
-    "timeDay": 1615,
-    "timeWeek": 1615,
-    "timeMonth": 1615,
-    "timeYear": 1615,
+    "uptime": "79.10%",
+    "uptimeDay": "79.10%",
+    "uptimeWeek": "79.10%",
+    "uptimeMonth": "79.10%",
+    "uptimeYear": "79.10%",
+    "time": 1618,
+    "timeDay": 1618,
+    "timeWeek": 1618,
+    "timeMonth": 1618,
+    "timeYear": 1618,
     "dailyMinutesDown": {
       "2025-04-25": 44
     }
@@ -1579,16 +1579,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sipen.gob.do.ico",
     "slug": "superintendencia-de-pensiones-sipen",
     "status": "up",
-    "uptime": "77.65%",
-    "uptimeDay": "77.65%",
-    "uptimeWeek": "77.65%",
-    "uptimeMonth": "77.65%",
-    "uptimeYear": "77.65%",
-    "time": 1615,
-    "timeDay": 1615,
-    "timeWeek": 1615,
-    "timeMonth": 1615,
-    "timeYear": 1615,
+    "uptime": "79.10%",
+    "uptimeDay": "79.10%",
+    "uptimeWeek": "79.10%",
+    "uptimeMonth": "79.10%",
+    "uptimeYear": "79.10%",
+    "time": 1618,
+    "timeDay": 1618,
+    "timeWeek": 1618,
+    "timeMonth": 1618,
+    "timeYear": 1618,
     "dailyMinutesDown": {
       "2025-04-25": 44
     }
@@ -1628,7 +1628,7 @@
     "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-04-25": 196
+      "2025-04-25": 210
     }
   },
   {
@@ -1648,7 +1648,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-04-25": 196
+      "2025-04-25": 210
     }
   },
   {
@@ -1747,18 +1747,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mopc.gob.do.ico",
     "slug": "ministerio-de-obras-publicas-y-comunicaciones-mopc",
     "status": "down",
-    "uptime": "0.26%",
-    "uptimeDay": "0.26%",
-    "uptimeWeek": "0.26%",
-    "uptimeMonth": "0.26%",
-    "uptimeYear": "0.26%",
+    "uptime": "0.24%",
+    "uptimeDay": "0.24%",
+    "uptimeWeek": "0.24%",
+    "uptimeMonth": "0.24%",
+    "uptimeYear": "0.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-25": 196
+      "2025-04-25": 209
     }
   },
   {
@@ -2066,7 +2066,7 @@
     "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-04-25": 195
+      "2025-04-25": 209
     }
   },
   {
@@ -2086,7 +2086,7 @@
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-04-25": 195
+      "2025-04-25": 209
     }
   },
   {
@@ -2131,18 +2131,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bnphu.gob.do.ico",
     "slug": "biblioteca-nacional-pedro-henriquez-urena-bnphu",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 196,
     "timeDay": 196,
     "timeWeek": 196,
     "timeMonth": 196,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-04-25": 195
+      "2025-04-25": 209
     }
   },
   {
@@ -2547,18 +2547,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/conape.gob.do.ico",
     "slug": "consejo-nacional-de-la-persona-envejeciente-conape",
     "status": "up",
-    "uptime": "42.62%",
-    "uptimeDay": "42.62%",
-    "uptimeWeek": "42.62%",
-    "uptimeMonth": "42.62%",
-    "uptimeYear": "42.62%",
+    "uptime": "39.83%",
+    "uptimeDay": "39.83%",
+    "uptimeWeek": "39.83%",
+    "uptimeMonth": "39.83%",
+    "uptimeYear": "39.83%",
     "time": 496,
     "timeDay": 496,
     "timeWeek": 496,
     "timeMonth": 496,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2025-04-25": 111
+      "2025-04-25": 125
     }
   },
   {
@@ -2992,7 +2992,7 @@
     "timeMonth": 399,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2025-04-25": 193
+      "2025-04-25": 207
     }
   },
   {
@@ -3012,7 +3012,7 @@
     "timeMonth": 174,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-04-25": 193
+      "2025-04-25": 207
     }
   },
   {
@@ -3068,7 +3068,7 @@
     "timeMonth": 181,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-04-25": 193
+      "2025-04-25": 207
     }
   },
   {
@@ -3203,16 +3203,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gabinetesocial.gob.do.ico",
     "slug": "gabinete-de-politica-social",
     "status": "down",
-    "uptime": "28.17%",
-    "uptimeDay": "28.17%",
-    "uptimeWeek": "28.17%",
-    "uptimeMonth": "28.17%",
-    "uptimeYear": "28.17%",
-    "time": 2167,
-    "timeDay": 2167,
-    "timeWeek": 2167,
-    "timeMonth": 2167,
-    "timeYear": 2167,
+    "uptime": "32.84%",
+    "uptimeDay": "32.84%",
+    "uptimeWeek": "32.84%",
+    "uptimeMonth": "32.84%",
+    "uptimeYear": "32.84%",
+    "time": 2160,
+    "timeDay": 2160,
+    "timeWeek": 2160,
+    "timeMonth": 2160,
+    "timeYear": 2160,
     "dailyMinutesDown": {
       "2025-04-25": 139
     }
@@ -3936,7 +3936,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-25": 192
+      "2025-04-25": 205
     }
   },
   {
@@ -3999,16 +3999,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sipen.gob.do.ico",
     "slug": "superintendencia-de-pensiones-sipen",
     "status": "up",
-    "uptime": "77.72%",
-    "uptimeDay": "77.72%",
-    "uptimeWeek": "77.72%",
-    "uptimeMonth": "77.72%",
-    "uptimeYear": "77.72%",
-    "time": 1615,
-    "timeDay": 1615,
-    "timeWeek": 1615,
-    "timeMonth": 1615,
-    "timeYear": 1615,
+    "uptime": "79.20%",
+    "uptimeDay": "79.20%",
+    "uptimeWeek": "79.20%",
+    "uptimeMonth": "79.20%",
+    "uptimeYear": "79.20%",
+    "time": 1618,
+    "timeDay": 1618,
+    "timeWeek": 1618,
+    "timeMonth": 1618,
+    "timeYear": 1618,
     "dailyMinutesDown": {
       "2025-04-25": 44
     }
@@ -4048,7 +4048,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-04-25": 192
+      "2025-04-25": 205
     }
   },
   {
@@ -4068,7 +4068,7 @@
     "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-04-25": 197
+      "2025-04-25": 211
     }
   },
   {
@@ -4106,7 +4106,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-04-25": 197
+      "2025-04-25": 211
     }
   },
   {
@@ -4126,7 +4126,7 @@
     "timeMonth": 153,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-04-25": 191
+      "2025-04-25": 205
     }
   },
   {
@@ -4200,7 +4200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-25": 191
+      "2025-04-25": 205
     }
   },
   {
@@ -4227,18 +4227,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gabsocial.gob.do.ico",
     "slug": "gabinete-de-politica-social",
     "status": "down",
-    "uptime": "28.14%",
-    "uptimeDay": "28.14%",
-    "uptimeWeek": "28.14%",
-    "uptimeMonth": "28.14%",
-    "uptimeYear": "28.14%",
-    "time": 2167,
-    "timeDay": 2167,
-    "timeWeek": 2167,
-    "timeMonth": 2167,
-    "timeYear": 2167,
+    "uptime": "32.78%",
+    "uptimeDay": "32.78%",
+    "uptimeWeek": "32.78%",
+    "uptimeMonth": "32.78%",
+    "uptimeYear": "32.78%",
+    "time": 2160,
+    "timeDay": 2160,
+    "timeWeek": 2160,
+    "timeMonth": 2160,
+    "timeYear": 2160,
     "dailyMinutesDown": {
-      "2025-04-25": 139
+      "2025-04-25": 140
     }
   },
   {
@@ -4258,7 +4258,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-25": 191
+      "2025-04-25": 205
     }
   },
   {
@@ -4278,7 +4278,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-04-25": 192
+      "2025-04-25": 205
     }
   },
   {
@@ -4316,7 +4316,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-25": 192
+      "2025-04-25": 206
     }
   },
   {
@@ -4444,7 +4444,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-25": 191
+      "2025-04-25": 204
     }
   },
   {
@@ -4464,7 +4464,7 @@
     "timeMonth": 212,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-04-25": 191
+      "2025-04-25": 204
     }
   }
 ]
