@@ -1,7 +1,7 @@
 url: https://zoodom.gob.do
-status: up
-code: 200
-responseTime: 2361
-lastUpdated: 2025-04-26T20:51:20.650Z
+status: down
+code: 502
+responseTime: 246
+lastUpdated: 2025-04-26T21:53:18.042Z
 startTime: 2025-04-25T14:35:21.527Z
 generator: Upptime <https://github.com/upptime/upptime>
