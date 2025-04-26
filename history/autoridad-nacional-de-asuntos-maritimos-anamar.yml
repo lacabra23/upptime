@@ -1,7 +1,7 @@
 url: https://anamar.gob.do
-status: up
-code: 200
-responseTime: 1402
-lastUpdated: 2025-04-25T14:31:29.297Z
+status: down
+code: 503
+responseTime: 377
+lastUpdated: 2025-04-26T18:50:08.389Z
 startTime: 2025-04-25T14:31:27.892Z
 generator: Upptime <https://github.com/upptime/upptime>
