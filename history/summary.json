@@ -16,7 +16,7 @@
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-04-26": 594,
+      "2025-04-26": 607,
       "2025-04-25": 573
     }
   },
@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/contraloria.gob.do.ico",
     "slug": "contraloria-general-de-la-republica-dominicana",
     "status": "up",
-    "uptime": "92.17%",
-    "uptimeDay": "92.17%",
-    "uptimeWeek": "92.17%",
-    "uptimeMonth": "92.17%",
-    "uptimeYear": "92.17%",
+    "uptime": "92.26%",
+    "uptimeDay": "92.26%",
+    "uptimeWeek": "92.26%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "92.26%",
     "time": 789,
     "timeDay": 789,
     "timeWeek": 789,
@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pasaportes.gob.do.ico",
     "slug": "direccion-general-de-pasaportes",
     "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
-    "time": 513,
-    "timeDay": 513,
-    "timeWeek": 513,
-    "timeMonth": 513,
-    "timeYear": 513,
+    "uptime": "99.37%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 481,
+    "timeDay": 481,
+    "timeWeek": 481,
+    "timeMonth": 481,
+    "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-04-26": 8
+      "2025-04-26": 7
     }
   },
   {
@@ -102,11 +102,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/msp.gob.do.ico",
     "slug": "ministerio-de-salud-publica",
     "status": "up",
-    "uptime": "97.30%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "97.30%",
-    "uptimeYear": "97.30%",
+    "uptime": "97.33%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.33%",
     "time": 362,
     "timeDay": 362,
     "timeWeek": 362,
@@ -194,18 +194,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/poderjudicial.gob.do.ico",
     "slug": "poder-judicial-de-la-republica-dominicana",
     "status": "down",
-    "uptime": "38.59%",
-    "uptimeDay": "38.59%",
-    "uptimeWeek": "38.59%",
-    "uptimeMonth": "38.59%",
-    "uptimeYear": "38.59%",
+    "uptime": "38.17%",
+    "uptimeDay": "38.17%",
+    "uptimeWeek": "38.17%",
+    "uptimeMonth": "38.17%",
+    "uptimeYear": "38.17%",
     "time": 1196,
     "timeDay": 1196,
     "timeWeek": 1196,
     "timeMonth": 1196,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2025-04-26": 594,
+      "2025-04-26": 607,
       "2025-04-25": 122
     }
   },
@@ -251,11 +251,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cultura.gob.do.ico",
     "slug": "ministerio-de-cultura",
     "status": "up",
-    "uptime": "92.21%",
-    "uptimeDay": "92.21%",
-    "uptimeWeek": "92.21%",
-    "uptimeMonth": "92.21%",
-    "uptimeYear": "92.21%",
+    "uptime": "92.30%",
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "92.30%",
+    "uptimeMonth": "92.30%",
+    "uptimeYear": "92.30%",
     "time": 1147,
     "timeDay": 1147,
     "timeWeek": 1147,
@@ -271,18 +271,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirex.gob.do.ico",
     "slug": "ministerio-de-relaciones-exteriores",
     "status": "up",
-    "uptime": "65.51%",
-    "uptimeDay": "65.51%",
-    "uptimeWeek": "65.51%",
-    "uptimeMonth": "65.51%",
-    "uptimeYear": "65.51%",
+    "uptime": "64.81%",
+    "uptimeDay": "64.81%",
+    "uptimeWeek": "64.81%",
+    "uptimeMonth": "64.81%",
+    "uptimeYear": "64.81%",
     "time": 1878,
     "timeDay": 1878,
     "timeWeek": 1878,
     "timeMonth": 1878,
     "timeYear": 1878,
     "dailyMinutesDown": {
-      "2025-04-26": 402
+      "2025-04-26": 415
     }
   },
   {
@@ -309,18 +309,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mt.gob.do.ico",
     "slug": "ministerio-de-trabajo",
     "status": "down",
-    "uptime": "43.49%",
-    "uptimeDay": "43.49%",
-    "uptimeWeek": "43.49%",
-    "uptimeMonth": "43.49%",
-    "uptimeYear": "43.49%",
+    "uptime": "43.03%",
+    "uptimeDay": "43.03%",
+    "uptimeWeek": "43.03%",
+    "uptimeMonth": "43.03%",
+    "uptimeYear": "43.03%",
     "time": 8489,
     "timeDay": 8489,
     "timeWeek": 8489,
     "timeMonth": 8489,
     "timeYear": 8489,
     "dailyMinutesDown": {
-      "2025-04-26": 594,
+      "2025-04-26": 607,
       "2025-04-25": 65
     }
   },
@@ -330,11 +330,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mujer.gob.do.ico",
     "slug": "ministerio-de-la-mujer",
     "status": "up",
-    "uptime": "95.88%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "95.88%",
-    "uptimeYear": "95.88%",
+    "uptime": "95.92%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "95.92%",
+    "uptimeMonth": "95.92%",
+    "uptimeYear": "95.92%",
     "time": 584,
     "timeDay": 584,
     "timeWeek": 584,
@@ -386,18 +386,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ambiente.gob.do.ico",
     "slug": "ministerio-de-medio-ambiente-y-recursos-naturales",
     "status": "down",
-    "uptime": "70.20%",
-    "uptimeDay": "70.20%",
-    "uptimeWeek": "70.20%",
-    "uptimeMonth": "70.20%",
-    "uptimeYear": "70.20%",
+    "uptime": "69.44%",
+    "uptimeDay": "69.44%",
+    "uptimeWeek": "69.44%",
+    "uptimeMonth": "69.44%",
+    "uptimeYear": "69.44%",
     "time": 510,
     "timeDay": 510,
     "timeWeek": 510,
     "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2025-04-26": 347
+      "2025-04-26": 360
     }
   },
   {
@@ -417,7 +417,7 @@
     "timeMonth": 195,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-04-26": 594,
+      "2025-04-26": 607,
       "2025-04-25": 572
     }
   },
@@ -528,7 +528,7 @@
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-04-26": 594,
+      "2025-04-26": 607,
       "2025-04-25": 572
     }
   },
@@ -538,18 +538,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mip.gob.do.ico",
     "slug": "ministerio-de-interior-y-policia",
     "status": "up",
-    "uptime": "65.71%",
-    "uptimeDay": "65.71%",
-    "uptimeWeek": "65.71%",
-    "uptimeMonth": "65.71%",
-    "uptimeYear": "65.71%",
+    "uptime": "65.00%",
+    "uptimeDay": "65.00%",
+    "uptimeWeek": "65.00%",
+    "uptimeMonth": "65.00%",
+    "uptimeYear": "65.00%",
     "time": 10633,
     "timeDay": 10633,
     "timeWeek": 10633,
     "timeMonth": 10633,
     "timeYear": 10633,
     "dailyMinutesDown": {
-      "2025-04-26": 400
+      "2025-04-26": 413
     }
   },
   {
@@ -713,7 +713,7 @@
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-04-26": 594,
+      "2025-04-26": 607,
       "2025-04-25": 572
     }
   },
@@ -896,7 +896,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-26": 594,
+      "2025-04-26": 607,
       "2025-04-25": 572
     }
   },
@@ -953,7 +953,7 @@
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-04-26": 594,
+      "2025-04-26": 607,
       "2025-04-25": 572
     }
   },
@@ -974,7 +974,7 @@
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-04-26": 594,
+      "2025-04-26": 607,
       "2025-04-25": 572
     }
   },
@@ -1013,7 +1013,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-04-26": 594,
+      "2025-04-26": 607,
       "2025-04-25": 571
     }
   },
@@ -1034,7 +1034,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-26": 594,
+      "2025-04-26": 607,
       "2025-04-25": 571
     }
   },
@@ -1055,7 +1055,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-26": 594,
+      "2025-04-26": 607,
       "2025-04-25": 571
     }
   },
@@ -1101,18 +1101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pgr.gob.do.ico",
     "slug": "procuraduria-general-de-la-republica",
     "status": "down",
-    "uptime": "34.45%",
-    "uptimeDay": "34.45%",
-    "uptimeWeek": "34.45%",
-    "uptimeMonth": "34.45%",
-    "uptimeYear": "34.45%",
+    "uptime": "34.08%",
+    "uptimeDay": "34.08%",
+    "uptimeWeek": "34.08%",
+    "uptimeMonth": "34.08%",
+    "uptimeYear": "34.08%",
     "time": 766,
     "timeDay": 766,
     "timeWeek": 766,
     "timeMonth": 766,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2025-04-26": 594,
+      "2025-04-26": 607,
       "2025-04-25": 169
     }
   },
@@ -1122,11 +1122,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dncd.gob.do.ico",
     "slug": "direccion-nacional-de-control-de-drogas-dncd",
     "status": "up",
-    "uptime": "95.83%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "95.83%",
-    "uptimeYear": "95.83%",
+    "uptime": "95.88%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "95.88%",
+    "uptimeMonth": "95.88%",
+    "uptimeYear": "95.88%",
     "time": 1271,
     "timeDay": 1271,
     "timeWeek": 1271,
@@ -1322,11 +1322,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/politur.gob.do.ico",
     "slug": "policia-de-turismo-politur",
     "status": "up",
-    "uptime": "92.90%",
-    "uptimeDay": "92.90%",
-    "uptimeWeek": "92.90%",
-    "uptimeMonth": "92.90%",
-    "uptimeYear": "92.90%",
+    "uptime": "92.97%",
+    "uptimeDay": "92.97%",
+    "uptimeWeek": "92.97%",
+    "uptimeMonth": "92.97%",
+    "uptimeYear": "92.97%",
     "time": 2211,
     "timeDay": 2211,
     "timeWeek": 2211,
@@ -1414,11 +1414,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dragas.mil.do.ico",
     "slug": "direccion-general-de-dragas-presas-y-balizamiento",
     "status": "up",
-    "uptime": "85.68%",
-    "uptimeDay": "85.68%",
-    "uptimeWeek": "85.68%",
-    "uptimeMonth": "85.68%",
-    "uptimeYear": "85.68%",
+    "uptime": "85.84%",
+    "uptimeDay": "85.84%",
+    "uptimeWeek": "85.84%",
+    "uptimeMonth": "85.84%",
+    "uptimeYear": "85.84%",
     "time": 3821,
     "timeDay": 3821,
     "timeWeek": 3821,
@@ -1489,11 +1489,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hacienda.gob.do.ico",
     "slug": "ministerio-de-hacienda",
     "status": "up",
-    "uptime": "57.53%",
-    "uptimeDay": "57.53%",
-    "uptimeWeek": "57.53%",
-    "uptimeMonth": "57.53%",
-    "uptimeYear": "57.53%",
+    "uptime": "57.99%",
+    "uptimeDay": "57.99%",
+    "uptimeWeek": "57.99%",
+    "uptimeMonth": "57.99%",
+    "uptimeYear": "57.99%",
     "time": 749,
     "timeDay": 749,
     "timeWeek": 749,
@@ -1527,11 +1527,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prousuario.gob.do.ico",
     "slug": "pro-usuario-superintendencia-de-bancos",
     "status": "up",
-    "uptime": "97.32%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "97.32%",
-    "uptimeYear": "97.32%",
+    "uptime": "97.35%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "97.35%",
+    "uptimeYear": "97.35%",
     "time": 248,
     "timeDay": 248,
     "timeWeek": 248,
@@ -1547,11 +1547,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sb.gob.do.ico",
     "slug": "superintendencia-de-bancos",
     "status": "up",
-    "uptime": "97.32%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "97.32%",
-    "uptimeYear": "97.32%",
+    "uptime": "97.35%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "97.35%",
+    "uptimeYear": "97.35%",
     "time": 746,
     "timeDay": 746,
     "timeWeek": 746,
@@ -1603,16 +1603,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sprics.gov.do.ico",
     "slug": "superintendencia-de-pensiones-sipen",
     "status": "up",
-    "uptime": "93.88%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "93.88%",
-    "uptimeMonth": "93.88%",
-    "uptimeYear": "93.88%",
-    "time": 1665,
-    "timeDay": 1665,
-    "timeWeek": 1665,
-    "timeMonth": 1665,
-    "timeYear": 1665,
+    "uptime": "93.94%",
+    "uptimeDay": "93.94%",
+    "uptimeWeek": "93.94%",
+    "uptimeMonth": "93.94%",
+    "uptimeYear": "93.94%",
+    "time": 1667,
+    "timeDay": 1667,
+    "timeWeek": 1667,
+    "timeMonth": 1667,
+    "timeYear": 1667,
     "dailyMinutesDown": {
       "2025-04-26": 0,
       "2025-04-25": 71
@@ -1624,16 +1624,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sipen.gob.do.ico",
     "slug": "superintendencia-de-pensiones-sipen",
     "status": "up",
-    "uptime": "93.88%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "93.88%",
-    "uptimeMonth": "93.88%",
-    "uptimeYear": "93.88%",
-    "time": 1665,
-    "timeDay": 1665,
-    "timeWeek": 1665,
-    "timeMonth": 1665,
-    "timeYear": 1665,
+    "uptime": "93.94%",
+    "uptimeDay": "93.94%",
+    "uptimeWeek": "93.94%",
+    "uptimeMonth": "93.94%",
+    "uptimeYear": "93.94%",
+    "time": 1667,
+    "timeDay": 1667,
+    "timeWeek": 1667,
+    "timeMonth": 1667,
+    "timeYear": 1667,
     "dailyMinutesDown": {
       "2025-04-26": 0,
       "2025-04-25": 71
@@ -1645,18 +1645,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/adess.gob.do.ico",
     "slug": "administradora-de-subsidios-sociales-adess",
     "status": "up",
-    "uptime": "93.27%",
-    "uptimeDay": "93.27%",
-    "uptimeWeek": "93.27%",
-    "uptimeMonth": "93.27%",
-    "uptimeYear": "93.27%",
+    "uptime": "94.43%",
+    "uptimeDay": "94.43%",
+    "uptimeWeek": "94.43%",
+    "uptimeMonth": "94.43%",
+    "uptimeYear": "94.43%",
     "time": 1578,
     "timeDay": 1578,
     "timeWeek": 1578,
     "timeMonth": 1578,
     "timeYear": 1578,
     "dailyMinutesDown": {
-      "2025-04-26": 79
+      "2025-04-26": 66
     }
   },
   {
@@ -1676,7 +1676,7 @@
     "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 607,
       "2025-04-25": 570
     }
   },
@@ -1697,7 +1697,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 607,
       "2025-04-25": 570
     }
   },
@@ -1808,7 +1808,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 607,
       "2025-04-25": 569
     }
   },
@@ -1818,11 +1818,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jac.gob.do.ico",
     "slug": "junta-de-aviacion-civil-jac",
     "status": "up",
-    "uptime": "95.97%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "95.97%",
-    "uptimeYear": "95.97%",
+    "uptime": "96.01%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "96.01%",
+    "uptimeYear": "96.01%",
     "time": 716,
     "timeDay": 716,
     "timeWeek": 716,
@@ -1873,19 +1873,19 @@
     "url": "https://pasorapido.gob.do",
     "icon": "https://icons.duckduckgo.com/ip3/pasorapido.gob.do.ico",
     "slug": "paso-rapido-sistema-de-peajes",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
-    "time": 937,
-    "timeDay": 937,
-    "timeWeek": 937,
-    "timeMonth": 937,
-    "timeYear": 937,
+    "status": "up",
+    "uptime": "98.90%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
+    "time": 990,
+    "timeDay": 990,
+    "timeWeek": 990,
+    "timeMonth": 990,
+    "timeYear": 990,
     "dailyMinutesDown": {
-      "2025-04-26": 6
+      "2025-04-26": 13
     }
   },
   {
@@ -1912,18 +1912,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/inabie.gob.do.ico",
     "slug": "instituto-nacional-de-bienestar-estudiantil-inabie",
     "status": "up",
-    "uptime": "66.59%",
-    "uptimeDay": "66.59%",
-    "uptimeWeek": "66.59%",
-    "uptimeMonth": "66.59%",
-    "uptimeYear": "66.59%",
+    "uptime": "65.87%",
+    "uptimeDay": "65.87%",
+    "uptimeWeek": "65.87%",
+    "uptimeMonth": "65.87%",
+    "uptimeYear": "65.87%",
     "time": 2272,
     "timeDay": 2272,
     "timeWeek": 2272,
     "timeMonth": 2272,
     "timeYear": 2272,
     "dailyMinutesDown": {
-      "2025-04-26": 389
+      "2025-04-26": 401
     }
   },
   {
@@ -2076,11 +2076,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/iad.gob.do.ico",
     "slug": "instituto-agrario-dominicano-iad",
     "status": "up",
-    "uptime": "70.99%",
-    "uptimeDay": "70.99%",
-    "uptimeWeek": "70.99%",
-    "uptimeMonth": "70.99%",
-    "uptimeYear": "70.99%",
+    "uptime": "71.30%",
+    "uptimeDay": "71.30%",
+    "uptimeWeek": "71.30%",
+    "uptimeMonth": "71.30%",
+    "uptimeYear": "71.30%",
     "time": 1676,
     "timeDay": 1676,
     "timeWeek": 1676,
@@ -2126,7 +2126,7 @@
     "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 607,
       "2025-04-25": 569
     }
   },
@@ -2147,7 +2147,7 @@
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 607,
       "2025-04-25": 569
     }
   },
@@ -2204,7 +2204,7 @@
     "timeMonth": 196,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 607,
       "2025-04-25": 568
     }
   },
@@ -2574,18 +2574,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fronteras.gob.do.ico",
     "slug": "direccion-general-de-desarrollo-fronterizo",
     "status": "down",
-    "uptime": "64.53%",
-    "uptimeDay": "64.53%",
-    "uptimeWeek": "64.53%",
-    "uptimeMonth": "64.53%",
-    "uptimeYear": "64.53%",
+    "uptime": "63.83%",
+    "uptimeDay": "63.83%",
+    "uptimeWeek": "63.83%",
+    "uptimeMonth": "63.83%",
+    "uptimeYear": "63.83%",
     "time": 674,
     "timeDay": 674,
     "timeWeek": 674,
     "timeMonth": 674,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2025-04-26": 384,
+      "2025-04-26": 397,
       "2025-04-25": 28
     }
   },
@@ -2613,18 +2613,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/conape.gob.do.ico",
     "slug": "consejo-nacional-de-la-persona-envejeciente-conape",
     "status": "up",
-    "uptime": "7.11%",
-    "uptimeDay": "7.11%",
-    "uptimeWeek": "7.11%",
-    "uptimeMonth": "7.11%",
-    "uptimeYear": "7.11%",
+    "uptime": "7.03%",
+    "uptimeDay": "7.03%",
+    "uptimeWeek": "7.03%",
+    "uptimeMonth": "7.03%",
+    "uptimeYear": "7.03%",
     "time": 496,
     "timeDay": 496,
     "timeWeek": 496,
     "timeMonth": 496,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 608,
       "2025-04-25": 484
     }
   },
@@ -2724,18 +2724,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/conavihsida.gob.do.ico",
     "slug": "consejo-nacional-para-el-vih-y-el-sida-conavihsida",
     "status": "down",
-    "uptime": "64.52%",
-    "uptimeDay": "64.52%",
-    "uptimeWeek": "64.52%",
-    "uptimeMonth": "64.52%",
-    "uptimeYear": "64.52%",
+    "uptime": "63.82%",
+    "uptimeDay": "63.82%",
+    "uptimeWeek": "63.82%",
+    "uptimeMonth": "63.82%",
+    "uptimeYear": "63.82%",
     "time": 1874,
     "timeDay": 1874,
     "timeWeek": 1874,
     "timeMonth": 1874,
     "timeYear": 1874,
     "dailyMinutesDown": {
-      "2025-04-26": 384,
+      "2025-04-26": 397,
       "2025-04-25": 28
     }
   },
@@ -2889,11 +2889,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dgcine.gob.do.ico",
     "slug": "direccion-general-de-cine-dgcine",
     "status": "up",
-    "uptime": "97.57%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.57%",
+    "uptime": "97.60%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "97.60%",
     "time": 3279,
     "timeDay": 3279,
     "timeWeek": 3279,
@@ -2963,11 +2963,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dgdf.gob.do.ico",
     "slug": "direccion-general-de-desarrollo-fronterizo-dgdf",
     "status": "up",
-    "uptime": "93.72%",
-    "uptimeDay": "93.72%",
-    "uptimeWeek": "93.72%",
-    "uptimeMonth": "93.72%",
-    "uptimeYear": "93.72%",
+    "uptime": "93.78%",
+    "uptimeDay": "93.78%",
+    "uptimeWeek": "93.78%",
+    "uptimeMonth": "93.78%",
+    "uptimeYear": "93.78%",
     "time": 4670,
     "timeDay": 4670,
     "timeWeek": 4670,
@@ -3001,18 +3001,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ganaderia.gob.do.ico",
     "slug": "direccion-general-de-ganaderia",
     "status": "down",
-    "uptime": "90.61%",
-    "uptimeDay": "90.61%",
-    "uptimeWeek": "90.61%",
-    "uptimeMonth": "90.61%",
-    "uptimeYear": "90.61%",
+    "uptime": "89.63%",
+    "uptimeDay": "89.63%",
+    "uptimeWeek": "89.63%",
+    "uptimeMonth": "89.63%",
+    "uptimeYear": "89.63%",
     "time": 4038,
     "timeDay": 4038,
     "timeWeek": 4038,
     "timeMonth": 4038,
     "timeYear": 4038,
     "dailyMinutesDown": {
-      "2025-04-26": 109
+      "2025-04-26": 122
     }
   },
   {
@@ -3068,7 +3068,7 @@
     "timeMonth": 399,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 608,
       "2025-04-25": 566
     }
   },
@@ -3089,7 +3089,7 @@
     "timeMonth": 174,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 608,
       "2025-04-25": 566
     }
   },
@@ -3099,11 +3099,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dgm.gob.do.ico",
     "slug": "direccion-general-de-migracion-dgm",
     "status": "up",
-    "uptime": "93.72%",
-    "uptimeDay": "93.72%",
-    "uptimeWeek": "93.72%",
-    "uptimeMonth": "93.72%",
-    "uptimeYear": "93.72%",
+    "uptime": "93.79%",
+    "uptimeDay": "93.79%",
+    "uptimeWeek": "93.79%",
+    "uptimeMonth": "93.79%",
+    "uptimeYear": "93.79%",
     "time": 1386,
     "timeDay": 1386,
     "timeWeek": 1386,
@@ -3119,18 +3119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/solicitudweb.pasaportes.gob.do.ico",
     "slug": "direccion-general-de-pasaportes",
     "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
-    "time": 513,
-    "timeDay": 513,
-    "timeWeek": 513,
-    "timeMonth": 513,
-    "timeYear": 513,
+    "uptime": "99.37%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 481,
+    "timeDay": 481,
+    "timeWeek": 481,
+    "timeMonth": 481,
+    "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-04-26": 8
+      "2025-04-26": 7
     }
   },
   {
@@ -3150,7 +3150,7 @@
     "timeMonth": 181,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 608,
       "2025-04-25": 566
     }
   },
@@ -3196,11 +3196,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dncd.gob.do.ico",
     "slug": "direccion-nacional-de-control-de-drogas-dncd",
     "status": "up",
-    "uptime": "95.83%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "95.83%",
-    "uptimeYear": "95.83%",
+    "uptime": "95.88%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "95.88%",
+    "uptimeMonth": "95.88%",
+    "uptimeYear": "95.88%",
     "time": 1271,
     "timeDay": 1271,
     "timeWeek": 1271,
@@ -3252,11 +3252,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fondomarena.gob.do.ico",
     "slug": "fondo-marena",
     "status": "up",
-    "uptime": "93.89%",
-    "uptimeDay": "93.89%",
-    "uptimeWeek": "93.89%",
-    "uptimeMonth": "93.89%",
-    "uptimeYear": "93.89%",
+    "uptime": "93.95%",
+    "uptimeDay": "93.95%",
+    "uptimeWeek": "93.95%",
+    "uptimeMonth": "93.95%",
+    "uptimeYear": "93.95%",
     "time": 655,
     "timeDay": 655,
     "timeWeek": 655,
@@ -3290,18 +3290,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gabinetesocial.gob.do.ico",
     "slug": "gabinete-de-politica-social",
     "status": "down",
-    "uptime": "12.05%",
-    "uptimeDay": "12.05%",
-    "uptimeWeek": "12.05%",
-    "uptimeMonth": "12.05%",
-    "uptimeYear": "12.05%",
+    "uptime": "11.92%",
+    "uptimeDay": "11.92%",
+    "uptimeWeek": "11.92%",
+    "uptimeMonth": "11.92%",
+    "uptimeYear": "11.92%",
     "time": 3880,
     "timeDay": 3880,
     "timeWeek": 3880,
     "timeMonth": 3880,
     "timeYear": 3880,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 608,
       "2025-04-25": 427
     }
   },
@@ -3311,18 +3311,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/inaguja.gob.do.ico",
     "slug": "instituto-nacional-de-la-aguja-inaguja",
     "status": "down",
-    "uptime": "88.26%",
-    "uptimeDay": "88.26%",
-    "uptimeWeek": "88.26%",
-    "uptimeMonth": "88.26%",
-    "uptimeYear": "88.26%",
+    "uptime": "87.30%",
+    "uptimeDay": "87.30%",
+    "uptimeWeek": "87.30%",
+    "uptimeMonth": "87.30%",
+    "uptimeYear": "87.30%",
     "time": 3536,
     "timeDay": 3536,
     "timeWeek": 3536,
     "timeMonth": 3536,
     "timeYear": 3536,
     "dailyMinutesDown": {
-      "2025-04-26": 109,
+      "2025-04-26": 122,
       "2025-04-25": 27
     }
   },
@@ -3332,11 +3332,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/iad.gob.do.ico",
     "slug": "instituto-agrario-dominicano-iad",
     "status": "up",
-    "uptime": "71.00%",
-    "uptimeDay": "71.00%",
-    "uptimeWeek": "71.00%",
-    "uptimeMonth": "71.00%",
-    "uptimeYear": "71.00%",
+    "uptime": "71.31%",
+    "uptimeDay": "71.31%",
+    "uptimeWeek": "71.31%",
+    "uptimeMonth": "71.31%",
+    "uptimeYear": "71.31%",
     "time": 1676,
     "timeDay": 1676,
     "timeWeek": 1676,
@@ -3371,11 +3371,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/inavi.gob.do.ico",
     "slug": "instituto-nacional-de-la-vivienda-inavi",
     "status": "up",
-    "uptime": "70.86%",
-    "uptimeDay": "70.86%",
-    "uptimeWeek": "70.86%",
-    "uptimeMonth": "70.86%",
-    "uptimeYear": "70.86%",
+    "uptime": "71.18%",
+    "uptimeDay": "71.18%",
+    "uptimeWeek": "71.18%",
+    "uptimeMonth": "71.18%",
+    "uptimeYear": "71.18%",
     "time": 1471,
     "timeDay": 1471,
     "timeWeek": 1471,
@@ -3626,18 +3626,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/inefi.gob.do.ico",
     "slug": "instituto-nacional-de-educacion-fisica-inefi",
     "status": "down",
-    "uptime": "94.13%",
-    "uptimeDay": "94.13%",
-    "uptimeWeek": "94.13%",
-    "uptimeMonth": "94.13%",
-    "uptimeYear": "94.13%",
+    "uptime": "93.11%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "93.11%",
+    "uptimeMonth": "93.11%",
+    "uptimeYear": "93.11%",
     "time": 6610,
     "timeDay": 6610,
     "timeWeek": 6610,
     "timeMonth": 6610,
     "timeYear": 6610,
     "dailyMinutesDown": {
-      "2025-04-26": 68
+      "2025-04-26": 81
     }
   },
   {
@@ -3664,11 +3664,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/inm.gob.do.ico",
     "slug": "instituto-nacional-de-migracion-inm",
     "status": "up",
-    "uptime": "69.13%",
-    "uptimeDay": "69.13%",
-    "uptimeWeek": "69.13%",
-    "uptimeMonth": "69.13%",
-    "uptimeYear": "69.13%",
+    "uptime": "69.46%",
+    "uptimeDay": "69.46%",
+    "uptimeWeek": "69.46%",
+    "uptimeMonth": "69.46%",
+    "uptimeYear": "69.46%",
     "time": 1684,
     "timeDay": 1684,
     "timeWeek": 1684,
@@ -3756,18 +3756,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jbn.gob.do.ico",
     "slug": "jardin-botanico-nacional-dr-rafael-m-moscoso-jbn",
     "status": "up",
-    "uptime": "67.72%",
-    "uptimeDay": "67.72%",
-    "uptimeWeek": "67.72%",
-    "uptimeMonth": "67.72%",
-    "uptimeYear": "67.72%",
+    "uptime": "66.99%",
+    "uptimeDay": "66.99%",
+    "uptimeWeek": "66.99%",
+    "uptimeMonth": "66.99%",
+    "uptimeYear": "66.99%",
     "time": 875,
     "timeDay": 875,
     "timeWeek": 875,
     "timeMonth": 875,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2025-04-26": 375
+      "2025-04-26": 387
     }
   },
   {
@@ -3776,11 +3776,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jac.gob.do.ico",
     "slug": "junta-de-aviacion-civil-jac",
     "status": "up",
-    "uptime": "95.97%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "95.97%",
-    "uptimeYear": "95.97%",
+    "uptime": "96.01%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "96.01%",
+    "uptimeYear": "96.01%",
     "time": 716,
     "timeDay": 716,
     "timeWeek": 716,
@@ -3814,18 +3814,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mercadom.gob.do.ico",
     "slug": "mercado-modelo-de-santo-domingo",
     "status": "down",
-    "uptime": "94.29%",
-    "uptimeDay": "94.29%",
-    "uptimeWeek": "94.29%",
-    "uptimeMonth": "94.29%",
-    "uptimeYear": "94.29%",
+    "uptime": "93.27%",
+    "uptimeDay": "93.27%",
+    "uptimeWeek": "93.27%",
+    "uptimeMonth": "93.27%",
+    "uptimeYear": "93.27%",
     "time": 5223,
     "timeDay": 5223,
     "timeWeek": 5223,
     "timeMonth": 5223,
     "timeYear": 5223,
     "dailyMinutesDown": {
-      "2025-04-26": 66
+      "2025-04-26": 79
     }
   },
   {
@@ -3906,11 +3906,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/onda.gob.do.ico",
     "slug": "oficina-nacional-de-derecho-de-autor-onda",
     "status": "up",
-    "uptime": "69.10%",
-    "uptimeDay": "69.10%",
-    "uptimeWeek": "69.10%",
-    "uptimeMonth": "69.10%",
-    "uptimeYear": "69.10%",
+    "uptime": "69.43%",
+    "uptimeDay": "69.43%",
+    "uptimeWeek": "69.43%",
+    "uptimeMonth": "69.43%",
+    "uptimeYear": "69.43%",
     "time": 1438,
     "timeDay": 1438,
     "timeWeek": 1438,
@@ -4045,7 +4045,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 608,
       "2025-04-25": 565
     }
   },
@@ -4055,18 +4055,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sgn.gob.do.ico",
     "slug": "servicio-geologico-nacional-sgn",
     "status": "down",
-    "uptime": "94.52%",
-    "uptimeDay": "94.52%",
-    "uptimeWeek": "94.52%",
-    "uptimeMonth": "94.52%",
-    "uptimeYear": "94.52%",
+    "uptime": "93.50%",
+    "uptimeDay": "93.50%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "93.50%",
+    "uptimeYear": "93.50%",
     "time": 5366,
     "timeDay": 5366,
     "timeWeek": 5366,
     "timeMonth": 5366,
     "timeYear": 5366,
     "dailyMinutesDown": {
-      "2025-04-26": 64
+      "2025-04-26": 76
     }
   },
   {
@@ -4111,16 +4111,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sipen.gob.do.ico",
     "slug": "superintendencia-de-pensiones-sipen",
     "status": "up",
-    "uptime": "93.88%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "93.88%",
-    "uptimeMonth": "93.88%",
-    "uptimeYear": "93.88%",
-    "time": 1665,
-    "timeDay": 1665,
-    "timeWeek": 1665,
-    "timeMonth": 1665,
-    "timeYear": 1665,
+    "uptime": "93.95%",
+    "uptimeDay": "93.95%",
+    "uptimeWeek": "93.95%",
+    "uptimeMonth": "93.95%",
+    "uptimeYear": "93.95%",
+    "time": 1667,
+    "timeDay": 1667,
+    "timeWeek": 1667,
+    "timeMonth": 1667,
+    "timeYear": 1667,
     "dailyMinutesDown": {
       "2025-04-26": 0,
       "2025-04-25": 71
@@ -4161,7 +4161,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 608,
       "2025-04-25": 564
     }
   },
@@ -4182,7 +4182,7 @@
     "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 608,
       "2025-04-25": 570
     }
   },
@@ -4221,7 +4221,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 608,
       "2025-04-25": 570
     }
   },
@@ -4242,7 +4242,7 @@
     "timeMonth": 153,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-04-26": 595,
+      "2025-04-26": 608,
       "2025-04-25": 564
     }
   },
@@ -4317,7 +4317,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-26": 596,
+      "2025-04-26": 608,
       "2025-04-25": 564
     }
   },
@@ -4345,18 +4345,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gabsocial.gob.do.ico",
     "slug": "gabinete-de-politica-social",
     "status": "down",
-    "uptime": "12.05%",
-    "uptimeDay": "12.05%",
-    "uptimeWeek": "12.05%",
-    "uptimeMonth": "12.05%",
-    "uptimeYear": "12.05%",
+    "uptime": "11.92%",
+    "uptimeDay": "11.92%",
+    "uptimeWeek": "11.92%",
+    "uptimeMonth": "11.92%",
+    "uptimeYear": "11.92%",
     "time": 3880,
     "timeDay": 3880,
     "timeWeek": 3880,
     "timeMonth": 3880,
     "timeYear": 3880,
     "dailyMinutesDown": {
-      "2025-04-26": 596,
+      "2025-04-26": 608,
       "2025-04-25": 427
     }
   },
@@ -4377,7 +4377,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-26": 596,
+      "2025-04-26": 608,
       "2025-04-25": 564
     }
   },
@@ -4398,7 +4398,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-04-26": 596,
+      "2025-04-26": 608,
       "2025-04-25": 564
     }
   },
@@ -4437,7 +4437,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-26": 596,
+      "2025-04-26": 608,
       "2025-04-25": 565
     }
   },
@@ -4566,7 +4566,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-26": 596,
+      "2025-04-26": 608,
       "2025-04-25": 563
     }
   },
@@ -4587,7 +4587,7 @@
     "timeMonth": 212,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-04-26": 596,
+      "2025-04-26": 608,
       "2025-04-25": 563
     }
   }
