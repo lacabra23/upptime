@@ -1,7 +1,7 @@
 url: https://dgdc.gob.do
-status: up
-code: 200
-responseTime: 1229
-lastUpdated: 2025-04-25T14:33:21.794Z
+status: down
+code: 503
+responseTime: 395
+lastUpdated: 2025-04-26T08:45:24.747Z
 startTime: 2025-04-25T14:33:20.562Z
 generator: Upptime <https://github.com/upptime/upptime>
