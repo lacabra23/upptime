@@ -1,7 +1,7 @@
 url: https://coniaf.gob.do
-status: up
-code: 200
-responseTime: 1342
-lastUpdated: 2025-04-26T20:48:11.665Z
+status: down
+code: 502
+responseTime: 315
+lastUpdated: 2025-04-26T21:48:37.566Z
 startTime: 2025-04-25T14:32:49.959Z
 generator: Upptime <https://github.com/upptime/upptime>
