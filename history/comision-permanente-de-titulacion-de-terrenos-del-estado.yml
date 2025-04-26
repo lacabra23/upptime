@@ -1,7 +1,7 @@
 url: https://titulacion.gob.do
-status: up
-code: 200
-responseTime: 2021
-lastUpdated: 2025-04-25T14:35:47.198Z
+status: down
+code: 502
+responseTime: 501
+lastUpdated: 2025-04-26T20:03:18.671Z
 startTime: 2025-04-25T14:35:45.173Z
 generator: Upptime <https://github.com/upptime/upptime>
