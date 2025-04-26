@@ -1,7 +1,7 @@
 url: https://acuarionacional.gob.do
-status: up
-code: 200
-responseTime: 1164
-lastUpdated: 2025-04-26T22:39:48.456Z
+status: down
+code: 502
+responseTime: 313
+lastUpdated: 2025-04-26T23:59:56.523Z
 startTime: 2025-04-25T14:31:22.037Z
 generator: Upptime <https://github.com/upptime/upptime>
