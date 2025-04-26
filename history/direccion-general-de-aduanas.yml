@@ -1,7 +1,7 @@
 url: https://aduanas.gob.do
-status: up
-code: 200
-responseTime: 586
-lastUpdated: 2025-04-26T14:33:39.709Z
+status: down
+code: 502
+responseTime: 618
+lastUpdated: 2025-04-26T16:56:00.492Z
 startTime: 2025-04-25T14:27:57.829Z
 generator: Upptime <https://github.com/upptime/upptime>
