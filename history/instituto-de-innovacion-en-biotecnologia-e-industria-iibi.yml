@@ -1,7 +1,7 @@
 url: https://iibi.gob.do
-status: up
-code: 200
-responseTime: 23935
-lastUpdated: 2025-04-26T22:42:03.271Z
+status: down
+code: 502
+responseTime: 338
+lastUpdated: 2025-04-27T00:07:36.133Z
 startTime: 2025-04-25T14:34:34.953Z
 generator: Upptime <https://github.com/upptime/upptime>
