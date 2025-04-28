@@ -1,7 +1,7 @@
 url: https://mapre.gob.do
-status: up
-code: 200
-responseTime: 370
-lastUpdated: 2025-04-25T14:35:12.082Z
+status: down
+code: 500
+responseTime: 182
+lastUpdated: 2025-04-28T23:51:36.334Z
 startTime: 2025-04-25T14:35:11.708Z
 generator: Upptime <https://github.com/upptime/upptime>
