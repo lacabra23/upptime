@@ -1,7 +1,7 @@
 url: https://conaprope.gob.do
-status: up
-code: 200
-responseTime: 754
-lastUpdated: 2025-04-26T13:10:45.073Z
+status: down
+code: 503
+responseTime: 403
+lastUpdated: 2025-04-28T11:53:23.700Z
 startTime: 2025-04-25T14:32:52.415Z
 generator: Upptime <https://github.com/upptime/upptime>
