@@ -1,7 +1,7 @@
 url: https://digecog.gob.do
-status: up
-code: 200
-responseTime: 2095
-lastUpdated: 2025-04-25T22:02:57.867Z
+status: down
+code: 504
+responseTime: 15255
+lastUpdated: 2025-04-28T21:50:21.815Z
 startTime: 2025-04-25T14:33:16.835Z
 generator: Upptime <https://github.com/upptime/upptime>
