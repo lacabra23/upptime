@@ -1,7 +1,7 @@
 url: https://fronteras.gob.do
-status: up
-code: 200
-responseTime: 1312
-lastUpdated: 2025-04-28T13:55:28.669Z
+status: down
+code: 503
+responseTime: 307
+lastUpdated: 2025-04-28T21:35:43.203Z
 startTime: 2025-04-25T14:32:48.881Z
 generator: Upptime <https://github.com/upptime/upptime>
