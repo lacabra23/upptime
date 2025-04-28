@@ -1,7 +1,7 @@
 url: https://dida.gob.do
-status: up
-code: 200
-responseTime: 2918
-lastUpdated: 2025-04-28T13:56:48.461Z
+status: down
+code: 503
+responseTime: 273
+lastUpdated: 2025-04-28T21:50:46.521Z
 startTime: 2025-04-25T14:33:31.924Z
 generator: Upptime <https://github.com/upptime/upptime>
