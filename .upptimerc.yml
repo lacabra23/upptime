@@ -20,7 +20,9 @@ sites:
   - name: Cámara de Cuentas de la República Dominicana
     url: https://camaradecuentas.gob.do
   - name: Senado de la República Dominicana
-    url: https://senadord.gob.do
+    check: "tcp-ping"
+    url: senadord.gob.do
+    port: 53
   - name: Cámara de Diputados de la República Dominicana
     url: https://camaradediputados.gob.do
   - name: Junta Central Electoral
@@ -204,7 +206,9 @@ sites:
   - name: Instituto Postal Dominicano (INPOSDOM)
     url: https://inposdom.gob.do
   - name: Paso Rápido (Sistema de peajes)
-    url: https://pasorapido.gob.do
+    check: "tcp-ping"
+    url: pasorapido.gob.do
+    port: 53
   - name: Ministerio de Educación
     url: https://ministeriodeeducacion.gob.do
   - name: Instituto Nacional de Bienestar Estudiantil (INABIE)
@@ -356,7 +360,9 @@ sites:
   - name: Fondo Patrimonial de las Empresas Reformadas (FONPER)
     url: https://fonper.gob.do
   - name: Gabinete de Política Social
-    url: https://gabinetesocial.gob.do
+    check: "tcp-ping"
+    url: gabinetesocial.gob.do
+    port: 53
   - name: Instituto Nacional de la Aguja (INAGUJA)
     url: https://inaguja.gob.do
   - name: Instituto Agrario Dominicano (IAD)
@@ -414,7 +420,9 @@ sites:
   - name: Mercado Modelo de Santo Domingo
     url: https://mercadom.gob.do
   - name: Ministerio Administrativo de la Presidencia (MAPRE)
-    url: https://mapre.gob.do
+    check: "tcp-ping"
+    url: mapre.gob.do
+    port: 53
   - name: Museo Nacional de Historia Natural Prof. Eugenio de Jesús Marcano (MNHN)
     url: https://mnhn.gob.do
   - name: Defensa Civil Dominicana
@@ -463,7 +471,7 @@ sites:
     url: https://titulacion.gob.do
   - name: Lotería Nacional Dominicana
     url: https://loterianacional.gob.do
-  - name: Instituto de Seguridad y Defensa Nacional (ISOC-RD)
+  - name: Intelligence Security Operation Center (ISOC-RD)
     url: https://isocrd.gob.do
   - name: Oficina Nacional de la Propiedad Industrial (ONAPI)
     url: https://onapi.gob.do
