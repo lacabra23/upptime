@@ -4,7 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Ministerio de Administración Pública
-    url: https://map.gob.do
+    check: "tcp-ping"
+    url: map.gob.do
+    port: 53
   - name: Contraloría General de la República Dominicana
     url: https://contraloria.gob.do
   - name: Dirección General de Pasaportes
