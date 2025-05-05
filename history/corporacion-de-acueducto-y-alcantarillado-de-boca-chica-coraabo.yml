@@ -1,7 +1,7 @@
 url: https://coraabo.gob.do
-status: up
-code: 200
-responseTime: 2862
-lastUpdated: 2025-04-29T14:53:32.643Z
+status: down
+code: 502
+responseTime: 328
+lastUpdated: 2025-05-05T15:52:42.486Z
 startTime: 2025-04-25T14:31:52.672Z
 generator: Upptime <https://github.com/upptime/upptime>
