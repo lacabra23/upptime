@@ -1,7 +1,7 @@
 url: https://corphotels.gob.do
-status: up
-code: 200
-responseTime: 700
-lastUpdated: 2025-04-29T14:54:33.586Z
+status: down
+code: 502
+responseTime: 328
+lastUpdated: 2025-05-05T15:53:11.633Z
 startTime: 2025-04-25T14:33:08.382Z
 generator: Upptime <https://github.com/upptime/upptime>
