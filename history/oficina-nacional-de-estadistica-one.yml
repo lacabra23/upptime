@@ -1,7 +1,7 @@
 url: https://one.gob.do
-status: up
-code: 200
-responseTime: 894
-lastUpdated: 2025-04-30T00:03:23.594Z
+status: down
+code: 503
+responseTime: 243
+lastUpdated: 2025-05-06T07:00:59.878Z
 startTime: 2025-04-25T14:35:16.550Z
 generator: Upptime <https://github.com/upptime/upptime>
