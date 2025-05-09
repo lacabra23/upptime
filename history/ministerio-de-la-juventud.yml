@@ -1,7 +1,7 @@
 url: https://juventud.gob.do
-status: up
-code: 200
-responseTime: 967
-lastUpdated: 2025-04-25T14:27:36.078Z
+status: down
+code: 500
+responseTime: 472
+lastUpdated: 2025-05-09T23:30:55.910Z
 startTime: 2025-04-25T14:27:35.108Z
 generator: Upptime <https://github.com/upptime/upptime>
