@@ -1,7 +1,7 @@
 url: https://loterianacional.gob.do
-status: up
-code: 200
-responseTime: 686
-lastUpdated: 2025-05-07T20:50:59.724Z
+status: down
+code: 429
+responseTime: 301
+lastUpdated: 2025-05-10T17:40:02.099Z
 startTime: 2025-04-25T14:35:47.503Z
 generator: Upptime <https://github.com/upptime/upptime>
