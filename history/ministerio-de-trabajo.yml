@@ -1,7 +1,7 @@
 url: https://mt.gob.do
-status: up
-code: 200
-responseTime: 1548
-lastUpdated: 2025-05-07T13:44:52.883Z
+status: down
+code: 504
+responseTime: 15141
+lastUpdated: 2025-05-11T04:04:03.540Z
 startTime: 2025-04-25T14:27:26.967Z
 generator: Upptime <https://github.com/upptime/upptime>
