@@ -1,7 +1,7 @@
 url: https://contraloria.gob.do
-status: up
-code: 200
-responseTime: 774
-lastUpdated: 2025-05-01T15:37:28.370Z
+status: down
+code: 502
+responseTime: 523
+lastUpdated: 2025-05-11T10:39:50.245Z
 startTime: 2025-04-25T14:27:06.551Z
 generator: Upptime <https://github.com/upptime/upptime>
