@@ -1,7 +1,7 @@
 url: https://jac.gob.do
-status: up
-code: 200
-responseTime: 1414
-lastUpdated: 2025-05-06T21:35:38.234Z
+status: down
+code: 504
+responseTime: 15466
+lastUpdated: 2025-05-12T20:04:12.083Z
 startTime: 2025-04-25T14:30:53.733Z
 generator: Upptime <https://github.com/upptime/upptime>
