@@ -1,7 +1,7 @@
 url: https://cdc.gob.do
-status: down
-code: 503
-responseTime: 790
-lastUpdated: 2025-05-13T22:05:44.438Z
+status: up
+code: 200
+responseTime: 1880
+lastUpdated: 2025-05-13T22:47:34.613Z
 startTime: 2025-04-25T14:31:44.792Z
 generator: Upptime <https://github.com/upptime/upptime>
