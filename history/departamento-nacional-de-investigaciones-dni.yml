@@ -1,7 +1,7 @@
-url: https://dni.gov.do
+url: https://dni.gob.do
 status: down
-code: 401
-responseTime: 215
-lastUpdated: 2025-05-14T23:33:33.102Z
+code: 403
+responseTime: 324
+lastUpdated: 2025-05-14T23:33:33.771Z
 startTime: 2025-04-25T14:28:26.067Z
 generator: Upptime <https://github.com/upptime/upptime>
