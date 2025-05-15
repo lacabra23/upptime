@@ -1,7 +1,7 @@
 url: https://intrant.gob.do
-status: up
-code: 200
-responseTime: 578
-lastUpdated: 2025-05-14T23:39:30.184Z
+status: down
+code: 500
+responseTime: 459
+lastUpdated: 2025-05-15T08:56:38.691Z
 startTime: 2025-04-25T14:30:17.717Z
 generator: Upptime <https://github.com/upptime/upptime>
