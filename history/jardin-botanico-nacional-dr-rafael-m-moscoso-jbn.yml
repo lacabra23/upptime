@@ -1,7 +1,7 @@
 url: https://jbn.gob.do
-status: up
-code: 200
-responseTime: 1011
-lastUpdated: 2025-05-27T23:26:29.070Z
+status: down
+code: 502
+responseTime: 349
+lastUpdated: 2025-05-28T15:44:25.878Z
 startTime: 2025-04-25T14:35:07.434Z
 generator: Upptime <https://github.com/upptime/upptime>
