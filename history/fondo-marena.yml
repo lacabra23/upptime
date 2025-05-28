@@ -1,7 +1,7 @@
 url: https://fondomarena.gob.do
-status: up
-code: 200
-responseTime: 1416
-lastUpdated: 2025-05-27T23:25:29.446Z
+status: down
+code: 502
+responseTime: 330
+lastUpdated: 2025-05-28T15:43:29.917Z
 startTime: 2025-04-25T14:33:48.915Z
 generator: Upptime <https://github.com/upptime/upptime>
