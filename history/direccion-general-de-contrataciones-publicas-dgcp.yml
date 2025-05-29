@@ -1,7 +1,7 @@
 url: https://dgcp.gob.do
-status: up
-code: 200
-responseTime: 22090
-lastUpdated: 2025-05-29T11:37:45.526Z
+status: down
+code: 500
+responseTime: 9444
+lastUpdated: 2025-05-29T12:04:17.546Z
 startTime: 2025-04-25T14:33:18.156Z
 generator: Upptime <https://github.com/upptime/upptime>
