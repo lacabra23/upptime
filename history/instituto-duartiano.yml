@@ -1,7 +1,7 @@
 url: https://institutoduartiano.gob.do
-status: up
-code: 200
-responseTime: 2058
-lastUpdated: 2025-06-01T07:03:58.005Z
+status: down
+code: 500
+responseTime: 10013
+lastUpdated: 2025-06-01T14:18:12.922Z
 startTime: 2025-04-25T14:34:47.164Z
 generator: Upptime <https://github.com/upptime/upptime>
