@@ -1,7 +1,7 @@
 url: https://camaradecuentas.gob.do
-status: up
-code: 200
-responseTime: 11646
-lastUpdated: 2025-06-02T08:37:43.278Z
+status: down
+code: 504
+responseTime: 15216
+lastUpdated: 2025-06-03T04:46:44.245Z
 startTime: 2025-04-25T14:27:13.065Z
 generator: Upptime <https://github.com/upptime/upptime>
