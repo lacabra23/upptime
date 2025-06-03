@@ -1,7 +1,7 @@
 url: https://ccdf.gob.do
-status: up
-code: 200
-responseTime: 1493
-lastUpdated: 2025-06-03T14:51:45.157Z
+status: down
+code: 503
+responseTime: 325
+lastUpdated: 2025-06-03T15:44:09.277Z
 startTime: 2025-04-25T14:31:46.533Z
 generator: Upptime <https://github.com/upptime/upptime>
