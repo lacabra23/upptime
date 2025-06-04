@@ -1,7 +1,7 @@
 url: https://onapi.gob.do
-status: up
-code: 200
-responseTime: 3034
-lastUpdated: 2025-06-03T23:33:30.111Z
+status: down
+code: 500
+responseTime: 368
+lastUpdated: 2025-06-04T09:08:32.321Z
 startTime: 2025-04-25T14:35:50.733Z
 generator: Upptime <https://github.com/upptime/upptime>
