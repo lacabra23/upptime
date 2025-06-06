@@ -1,7 +1,7 @@
 url: https://caid.gob.do
-status: up
-code: 200
-responseTime: 2659
-lastUpdated: 2025-06-06T14:46:00.031Z
+status: down
+code: 500
+responseTime: 1607
+lastUpdated: 2025-06-06T20:19:55.874Z
 startTime: 2025-04-25T14:31:32.229Z
 generator: Upptime <https://github.com/upptime/upptime>
