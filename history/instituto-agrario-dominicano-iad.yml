@@ -1,7 +1,7 @@
 url: https://iad.gob.do
-status: up
-code: 200
-responseTime: 1971
-lastUpdated: 2025-06-05T23:59:03.128Z
+status: down
+code: 502
+responseTime: 547
+lastUpdated: 2025-06-06T07:46:31.166Z
 startTime: 2025-04-25T14:31:20.038Z
 generator: Upptime <https://github.com/upptime/upptime>
