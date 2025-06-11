@@ -1,7 +1,7 @@
 url: https://ministeriodeeducacion.gob.do
-status: up
-code: 200
-responseTime: 5187
-lastUpdated: 2025-06-10T14:54:23.930Z
+status: down
+code: 502
+responseTime: 925
+lastUpdated: 2025-06-11T23:22:26.691Z
 startTime: 2025-04-25T14:30:59.889Z
 generator: Upptime <https://github.com/upptime/upptime>
