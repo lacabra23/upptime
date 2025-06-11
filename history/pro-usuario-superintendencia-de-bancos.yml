@@ -1,7 +1,7 @@
 url: https://prousuario.gob.do
-status: up
-code: 200
-responseTime: 10612
-lastUpdated: 2025-06-11T04:44:28.087Z
+status: down
+code: 503
+responseTime: 3584
+lastUpdated: 2025-06-11T05:34:01.834Z
 startTime: 2025-04-25T14:29:38.940Z
 generator: Upptime <https://github.com/upptime/upptime>
