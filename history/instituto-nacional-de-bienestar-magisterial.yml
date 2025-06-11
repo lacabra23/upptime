@@ -1,7 +1,7 @@
 url: https://inabima.gob.do
-status: up
-code: 200
-responseTime: 3789
-lastUpdated: 2025-06-11T13:49:33.424Z
+status: down
+code: 500
+responseTime: 2568
+lastUpdated: 2025-06-11T21:46:05.756Z
 startTime: 2025-04-25T14:36:28.165Z
 generator: Upptime <https://github.com/upptime/upptime>
