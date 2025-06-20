@@ -1,7 +1,7 @@
 url: https://tribunalconstitucional.gob.do
-status: up
-code: 200
-responseTime: 7084
-lastUpdated: 2025-06-19T23:19:33.870Z
+status: down
+code: 406
+responseTime: 88
+lastUpdated: 2025-06-20T08:58:51.325Z
 startTime: 2025-04-25T14:27:58.632Z
 generator: Upptime <https://github.com/upptime/upptime>
