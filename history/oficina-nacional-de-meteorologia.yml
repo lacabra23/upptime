@@ -1,7 +1,7 @@
 url: https://onamet.gob.do
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-29T20:03:17.830Z
+status: up
+code: 200
+responseTime: 1433
+lastUpdated: 2025-06-29T20:20:52.386Z
 startTime: 2025-04-25T14:36:32.235Z
 generator: Upptime <https://github.com/upptime/upptime>
