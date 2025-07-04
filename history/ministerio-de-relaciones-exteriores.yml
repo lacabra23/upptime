@@ -1,7 +1,7 @@
 url: https://mirex.gob.do
-status: up
-code: 200
-responseTime: 2327
-lastUpdated: 2025-07-03T23:18:08.610Z
+status: down
+code: 500
+responseTime: 309
+lastUpdated: 2025-07-04T01:16:13.885Z
 startTime: 2025-04-25T14:27:24.175Z
 generator: Upptime <https://github.com/upptime/upptime>
