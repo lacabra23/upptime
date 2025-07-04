@@ -1,7 +1,7 @@
-url: https://solicitudweb.pasaportes.gob.do
-status: up
-code: 200
-responseTime: 521
-lastUpdated: 2025-07-03T23:25:03.056Z
+url: https://pasaportes.gob.do
+status: down
+code: 503
+responseTime: 327
+lastUpdated: 2025-07-04T19:56:26.336Z
 startTime: 2025-04-25T14:27:07.612Z
 generator: Upptime <https://github.com/upptime/upptime>
