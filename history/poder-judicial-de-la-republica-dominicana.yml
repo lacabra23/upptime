@@ -1,7 +1,7 @@
 url: https://poderjudicial.gob.do
-status: up
-code: 200
-responseTime: 1980
-lastUpdated: 2025-07-19T18:34:00.769Z
+status: down
+code: 503
+responseTime: 384
+lastUpdated: 2025-07-19T20:31:13.616Z
 startTime: 2025-04-25T14:27:18.217Z
 generator: Upptime <https://github.com/upptime/upptime>
