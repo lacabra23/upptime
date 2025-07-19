@@ -1,7 +1,7 @@
-url: https://bancoagricola.gob.do
-status: up
-code: 200
-responseTime: 571
-lastUpdated: 2025-07-18T23:20:55.656Z
+url: https://bagricola.gob.do
+status: down
+code: 525
+responseTime: 440
+lastUpdated: 2025-07-19T03:41:44.703Z
 startTime: 2025-04-25T14:29:40.446Z
 generator: Upptime <https://github.com/upptime/upptime>
