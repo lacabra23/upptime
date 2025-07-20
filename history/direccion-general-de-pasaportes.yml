@@ -1,7 +1,7 @@
 url: https://pasaportes.gob.do
-status: up
-code: 200
-responseTime: 599
-lastUpdated: 2025-07-20T11:46:08.209Z
+status: down
+code: 503
+responseTime: 317
+lastUpdated: 2025-07-20T16:34:05.352Z
 startTime: 2025-04-25T14:27:07.612Z
 generator: Upptime <https://github.com/upptime/upptime>
