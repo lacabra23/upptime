@@ -1,7 +1,7 @@
 url: https://ogtic.gob.do
-status: up
-code: 200
-responseTime: 175
-lastUpdated: 2025-07-24T02:36:39.709Z
+status: down
+code: 429
+responseTime: 163
+lastUpdated: 2025-07-24T05:04:23.274Z
 startTime: 2025-04-25T14:28:12.402Z
 generator: Upptime <https://github.com/upptime/upptime>
